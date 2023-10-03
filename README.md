@@ -1,2 +1,2 @@
 # Jam3
- Small game on summer jam
+ Small 3d runner on summer jam
