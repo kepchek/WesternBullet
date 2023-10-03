@@ -1,3 +1,4 @@
-rep "Jam3@kepchek@cloud"
+repository "Jam3@kepchek@cloud"
   path "/"
-    smartbranch "/main"
+    br "/main"
+    co "/main"

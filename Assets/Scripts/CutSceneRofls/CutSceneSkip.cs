@@ -6,11 +6,8 @@ using UnityEngine.SceneManagement;
 public class CutSceneSkip : MonoBehaviour
 {
 
-    void Update()
+    public void ButtonDown()
     {
-        if(Input.GetKeyDown(KeyCode.Space))
-        {
-            SceneManager.LoadScene(2);
-        }
+        SceneManager.LoadScene(2);  
     }
 }

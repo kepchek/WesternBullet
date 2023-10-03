@@ -8,21 +8,13 @@ public class PauseMenu : MonoBehaviour
     public bool PauseGame;
 
     public GameObject pauseGameMenu;
+    public GameObject PauseTriggerUI;
+    public GameObject JoystickUI;
 
 
-    private void Update() 
+    public void RobertPolson() 
     {
-        if(Input.GetKeyDown(KeyCode.Escape))
-        {
-            if(PauseGame)
-            {
-                Resume();
-            }
-            else
-            {
-                Pause();
-            }
-        }
+        Pause();
     }
 
     public void Resume()
@@ -32,6 +24,8 @@ public class PauseMenu : MonoBehaviour
         PauseGame = false;
         BulletFly.speed = StartGame.ShellSpeed;
         BulletFly.BulletSound.Play();
+        PauseTriggerUI.SetActive(true);
+        JoystickUI.SetActive(true);
     }
 
     public void Pause()
@@ -41,10 +35,13 @@ public class PauseMenu : MonoBehaviour
         PauseGame = true;
         BulletFly.speed = 0;
         BulletFly.BulletSound.Stop();
+        PauseTriggerUI.SetActive(false);
+        JoystickUI.SetActive(false);
     }
 
     public void LoadMenu()
     {
+        BulletFly.IsWin = true;//Off main song
         Time.timeScale = 1f;
         SceneManager.LoadScene("StartMenu");
     }
