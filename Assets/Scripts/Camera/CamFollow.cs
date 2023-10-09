@@ -14,7 +14,7 @@ public class CamFollow : MonoBehaviour
         followDist = transform.position - LeadObj.position;    
     }
 
-    void LateUpdate()
+    void FixedUpdate()
     {
         Vector3 targetPos = LeadObj.position + followDist;
 

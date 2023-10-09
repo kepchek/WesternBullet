@@ -1,0 +1,28 @@
+# Diff Summary
+
+Date : 2023-10-07 17:13:41
+
+Directory d:\\progs\\unity\\projects\\Jam3 (1)\\Packages
+
+Total : 3 files,  426 codes, -2 comments, -3 blanks, all 421 lines
+
+[Summary](results.md) / [Details](details.md) / Diff Summary / [Diff Details](diff-details.md)
+
+## Languages
+| language | files | code | comment | blank | total |
+| :--- | ---: | ---: | ---: | ---: | ---: |
+| JSON | 2 | 441 | 0 | 2 | 443 |
+| C# | 1 | -15 | -2 | -5 | -22 |
+
+## Directories
+| path | files | code | comment | blank | total |
+| :--- | ---: | ---: | ---: | ---: | ---: |
+| . | 3 | 426 | -2 | -3 | 421 |
+| . (Files) | 2 | 441 | 0 | 2 | 443 |
+| .. | 1 | -15 | -2 | -5 | -22 |
+| ..\\Assets | 1 | -15 | -2 | -5 | -22 |
+| ..\\Assets\\Free HDR Skyboxes Pack | 1 | -15 | -2 | -5 | -22 |
+| ..\\Assets\\Free HDR Skyboxes Pack\\Example Scenes | 1 | -15 | -2 | -5 | -22 |
+| ..\\Assets\\Free HDR Skyboxes Pack\\Example Scenes\\Script | 1 | -15 | -2 | -5 | -22 |
+
+[Summary](results.md) / [Details](details.md) / Diff Summary / [Diff Details](diff-details.md)

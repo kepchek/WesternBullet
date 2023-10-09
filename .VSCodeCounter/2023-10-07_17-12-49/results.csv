@@ -1,0 +1,44 @@
+"filename", "language", "JSON", "HLSL", "ShaderLab", "C#", "comment", "blank", "total"
+"d:\progs\unity\projects\Jam3 (1)\Assets\Free HDR Skyboxes Pack\Example Scenes\Script\RotateCamera.cs", "C#", 0, 0, 0, 15, 2, 5, 22
+"d:\progs\unity\projects\Jam3 (1)\Assets\Joystick Pack\Examples\JoystickPlayerExample.cs", "C#", 0, 0, 0, 14, 0, 2, 16
+"d:\progs\unity\projects\Jam3 (1)\Assets\Joystick Pack\Examples\JoystickSetterExample.cs", "C#", 0, 0, 0, 60, 0, 6, 66
+"d:\progs\unity\projects\Jam3 (1)\Assets\Joystick Pack\Scripts\Base\Joystick.cs", "C#", 0, 0, 0, 130, 0, 20, 150
+"d:\progs\unity\projects\Jam3 (1)\Assets\Joystick Pack\Scripts\Editor\DynamicJoystickEditor.cs", "C#", 0, 0, 0, 30, 0, 5, 35
+"d:\progs\unity\projects\Jam3 (1)\Assets\Joystick Pack\Scripts\Editor\FloatingJoystickEditor.cs", "C#", 0, 0, 0, 19, 0, 2, 21
+"d:\progs\unity\projects\Jam3 (1)\Assets\Joystick Pack\Scripts\Editor\JoystickEditor.cs", "C#", 0, 0, 0, 55, 0, 9, 64
+"d:\progs\unity\projects\Jam3 (1)\Assets\Joystick Pack\Scripts\Editor\VariableJoystickEditor.cs", "C#", 0, 0, 0, 31, 0, 6, 37
+"d:\progs\unity\projects\Jam3 (1)\Assets\Joystick Pack\Scripts\Joysticks\DynamicJoystick.cs", "C#", 0, 0, 0, 35, 0, 6, 41
+"d:\progs\unity\projects\Jam3 (1)\Assets\Joystick Pack\Scripts\Joysticks\FixedJoystick.cs", "C#", 0, 0, 0, 6, 0, 2, 8
+"d:\progs\unity\projects\Jam3 (1)\Assets\Joystick Pack\Scripts\Joysticks\FloatingJoystick.cs", "C#", 0, 0, 0, 23, 0, 3, 26
+"d:\progs\unity\projects\Jam3 (1)\Assets\Joystick Pack\Scripts\Joysticks\VariableJoystick.cs", "C#", 0, 0, 0, 53, 0, 10, 63
+"d:\progs\unity\projects\Jam3 (1)\Assets\Scripts\Anims\ShellAnim.cs", "C#", 0, 0, 0, 10, 0, 2, 12
+"d:\progs\unity\projects\Jam3 (1)\Assets\Scripts\Camera\CamFollow.cs", "C#", 0, 0, 0, 18, 2, 7, 27
+"d:\progs\unity\projects\Jam3 (1)\Assets\Scripts\Controls\BulletFly.cs", "C#", 0, 0, 0, 71, 7, 20, 98
+"d:\progs\unity\projects\Jam3 (1)\Assets\Scripts\Credits\Credits.cs", "C#", 0, 0, 0, 16, 0, 4, 20
+"d:\progs\unity\projects\Jam3 (1)\Assets\Scripts\CutSceneRofls\CutSceneSkip.cs", "C#", 0, 0, 0, 11, 0, 3, 14
+"d:\progs\unity\projects\Jam3 (1)\Assets\Scripts\EndRoundScripts\EndRound.cs", "C#", 0, 0, 0, 59, 0, 18, 77
+"d:\progs\unity\projects\Jam3 (1)\Assets\Scripts\LvlControl\LvlControl\BackButton.cs", "C#", 0, 0, 0, 9, 0, 3, 12
+"d:\progs\unity\projects\Jam3 (1)\Assets\Scripts\LvlControl\LvlControl\LvlControl.cs", "C#", 0, 0, 0, 33, 0, 6, 39
+"d:\progs\unity\projects\Jam3 (1)\Assets\Scripts\LvlControl\LvlControl\LvlControlMenu.cs", "C#", 0, 0, 0, 105, 0, 18, 123
+"d:\progs\unity\projects\Jam3 (1)\Assets\Scripts\PauseMenuScripts\PauseMenu.cs", "C#", 0, 0, 0, 46, 0, 11, 57
+"d:\progs\unity\projects\Jam3 (1)\Assets\Scripts\Sound\FixSound.cs", "C#", 0, 0, 0, 26, 0, 3, 29
+"d:\progs\unity\projects\Jam3 (1)\Assets\Scripts\StartMenuScripts\StartGame.cs", "C#", 0, 0, 0, 49, 0, 13, 62
+"d:\progs\unity\projects\Jam3 (1)\Assets\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader", "ShaderLab", 0, 0, 109, 0, 2, 33, 144
+"d:\progs\unity\projects\Jam3 (1)\Assets\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader", "ShaderLab", 0, 0, 112, 0, 3, 31, 146
+"d:\progs\unity\projects\Jam3 (1)\Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader", "ShaderLab", 0, 0, 109, 0, 2, 33, 144
+"d:\progs\unity\projects\Jam3 (1)\Assets\TextMesh Pro\Shaders\TMP_SDF Overlay.shader", "ShaderLab", 0, 0, 243, 0, 4, 71, 318
+"d:\progs\unity\projects\Jam3 (1)\Assets\TextMesh Pro\Shaders\TMP_SDF SSD.shader", "ShaderLab", 0, 0, 241, 0, 4, 66, 311
+"d:\progs\unity\projects\Jam3 (1)\Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader", "ShaderLab", 0, 0, 188, 0, 10, 50, 248
+"d:\progs\unity\projects\Jam3 (1)\Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader", "ShaderLab", 0, 0, 183, 0, 8, 50, 241
+"d:\progs\unity\projects\Jam3 (1)\Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader", "ShaderLab", 0, 0, 82, 0, 4, 21, 107
+"d:\progs\unity\projects\Jam3 (1)\Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader", "ShaderLab", 0, 0, 183, 0, 8, 50, 241
+"d:\progs\unity\projects\Jam3 (1)\Assets\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader", "ShaderLab", 0, 0, 103, 0, 8, 28, 139
+"d:\progs\unity\projects\Jam3 (1)\Assets\TextMesh Pro\Shaders\TMP_SDF-Surface.shader", "ShaderLab", 0, 0, 122, 0, 4, 33, 159
+"d:\progs\unity\projects\Jam3 (1)\Assets\TextMesh Pro\Shaders\TMP_SDF.shader", "ShaderLab", 0, 0, 243, 0, 4, 71, 318
+"d:\progs\unity\projects\Jam3 (1)\Assets\TextMesh Pro\Shaders\TMP_Sprite.shader", "ShaderLab", 0, 0, 97, 0, 0, 20, 117
+"d:\progs\unity\projects\Jam3 (1)\Assets\TextMesh Pro\Shaders\TMPro.cginc", "HLSL", 0, 63, 0, 0, 2, 20, 85
+"d:\progs\unity\projects\Jam3 (1)\Assets\TextMesh Pro\Shaders\TMPro_Mobile.cginc", "HLSL", 0, 122, 0, 0, 2, 34, 158
+"d:\progs\unity\projects\Jam3 (1)\Assets\TextMesh Pro\Shaders\TMPro_Properties.cginc", "HLSL", 0, 62, 0, 0, 10, 14, 86
+"d:\progs\unity\projects\Jam3 (1)\Assets\TextMesh Pro\Shaders\TMPro_Surface.cginc", "HLSL", 0, 76, 0, 0, 7, 19, 102
+"d:\progs\unity\projects\Jam3 (1)\Assets\TextMesh Pro\Sprites\EmojiOne.json", "JSON", 155, 0, 0, 0, 0, 2, 157
+"Total", "-", 155, 323, 2015, 924, 93, 830, 4340

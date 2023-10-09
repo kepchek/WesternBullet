@@ -4,7 +4,11 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 
 public class Credits : MonoBehaviour
-{
+{   
+    public void Start()
+    {
+        Time.timeScale = 1f;
+    }
     public void Back()
     {
         SceneManager.LoadScene(0);

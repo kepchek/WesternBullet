@@ -1,0 +1,75 @@
+Date : 2023-10-07 17:12:49
+Directory : d:\progs\unity\projects\Jam3 (1)\Assets
+Total : 32 files,  2980 codes, 63 comments, 723 blanks, all 3766 lines
+
+Languages
++-----------+------------+------------+------------+------------+------------+
+| language  | files      | code       | comment    | blank      | total      |
++-----------+------------+------------+------------+------------+------------+
+| ShaderLab |         13 |      2,015 |         61 |        557 |      2,633 |
+| C#        |         14 |        487 |        -19 |         77 |        545 |
+| HLSL      |          4 |        323 |         21 |         87 |        431 |
+| JSON      |          1 |        155 |          0 |          2 |        157 |
++-----------+------------+------------+------------+------------+------------+
+
+Directories
++------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                 | files      | code       | comment    | blank      | total      |
++------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                    |         32 |      2,980 |         63 |        723 |      3,766 |
+| Free HDR Skyboxes Pack                                                                               |          1 |         15 |          2 |          5 |         22 |
+| Free HDR Skyboxes Pack\Example Scenes                                                                |          1 |         15 |          2 |          5 |         22 |
+| Free HDR Skyboxes Pack\Example Scenes\Script                                                         |          1 |         15 |          2 |          5 |         22 |
+| Joystick Pack                                                                                        |         11 |        456 |          0 |         71 |        527 |
+| Joystick Pack\Examples                                                                               |          2 |         74 |          0 |          8 |         82 |
+| Joystick Pack\Scripts                                                                                |          9 |        382 |          0 |         63 |        445 |
+| Joystick Pack\Scripts\Base                                                                           |          1 |        130 |          0 |         20 |        150 |
+| Joystick Pack\Scripts\Editor                                                                         |          4 |        135 |          0 |         22 |        157 |
+| Joystick Pack\Scripts\Joysticks                                                                      |          4 |        117 |          0 |         21 |        138 |
+| Scripts                                                                                              |          2 |         16 |        -21 |          1 |         -4 |
+| Scripts\EndRoundScripts                                                                              |          1 |          4 |        -20 |          1 |        -15 |
+| Scripts\LvlControl                                                                                   |          1 |         12 |         -1 |          0 |         11 |
+| Scripts\LvlControl\LvlControl                                                                        |          1 |         12 |         -1 |          0 |         11 |
+| TextMesh Pro                                                                                         |         18 |      2,493 |         82 |        646 |      3,221 |
+| TextMesh Pro\Shaders                                                                                 |         17 |      2,338 |         82 |        644 |      3,064 |
+| TextMesh Pro\Sprites                                                                                 |          1 |        155 |          0 |          2 |        157 |
++------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++------------------------------------------------------------------------------------------------------+-----------+------------+------------+------------+------------+
+| filename                                                                                             | language  | code       | comment    | blank      | total      |
++------------------------------------------------------------------------------------------------------+-----------+------------+------------+------------+------------+
+| d:\progs\unity\projects\Jam3 (1)\Assets\Free HDR Skyboxes Pack\Example Scenes\Script\RotateCamera.cs | C#        |         15 |          2 |          5 |         22 |
+| d:\progs\unity\projects\Jam3 (1)\Assets\Joystick Pack\Examples\JoystickPlayerExample.cs              | C#        |         14 |          0 |          2 |         16 |
+| d:\progs\unity\projects\Jam3 (1)\Assets\Joystick Pack\Examples\JoystickSetterExample.cs              | C#        |         60 |          0 |          6 |         66 |
+| d:\progs\unity\projects\Jam3 (1)\Assets\Joystick Pack\Scripts\Base\Joystick.cs                       | C#        |        130 |          0 |         20 |        150 |
+| d:\progs\unity\projects\Jam3 (1)\Assets\Joystick Pack\Scripts\Editor\DynamicJoystickEditor.cs        | C#        |         30 |          0 |          5 |         35 |
+| d:\progs\unity\projects\Jam3 (1)\Assets\Joystick Pack\Scripts\Editor\FloatingJoystickEditor.cs       | C#        |         19 |          0 |          2 |         21 |
+| d:\progs\unity\projects\Jam3 (1)\Assets\Joystick Pack\Scripts\Editor\JoystickEditor.cs               | C#        |         55 |          0 |          9 |         64 |
+| d:\progs\unity\projects\Jam3 (1)\Assets\Joystick Pack\Scripts\Editor\VariableJoystickEditor.cs       | C#        |         31 |          0 |          6 |         37 |
+| d:\progs\unity\projects\Jam3 (1)\Assets\Joystick Pack\Scripts\Joysticks\DynamicJoystick.cs           | C#        |         35 |          0 |          6 |         41 |
+| d:\progs\unity\projects\Jam3 (1)\Assets\Joystick Pack\Scripts\Joysticks\FixedJoystick.cs             | C#        |          6 |          0 |          2 |          8 |
+| d:\progs\unity\projects\Jam3 (1)\Assets\Joystick Pack\Scripts\Joysticks\FloatingJoystick.cs          | C#        |         23 |          0 |          3 |         26 |
+| d:\progs\unity\projects\Jam3 (1)\Assets\Joystick Pack\Scripts\Joysticks\VariableJoystick.cs          | C#        |         53 |          0 |         10 |         63 |
+| d:\progs\unity\projects\Jam3 (1)\Assets\Scripts\EndRoundScripts\EndRound.cs                          | C#        |          4 |        -20 |          1 |        -15 |
+| d:\progs\unity\projects\Jam3 (1)\Assets\Scripts\LvlControl\LvlControl\LvlControlMenu.cs              | C#        |         12 |         -1 |          0 |         11 |
+| d:\progs\unity\projects\Jam3 (1)\Assets\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader          | ShaderLab |        109 |          2 |         33 |        144 |
+| d:\progs\unity\projects\Jam3 (1)\Assets\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader                | ShaderLab |        112 |          3 |         31 |        146 |
+| d:\progs\unity\projects\Jam3 (1)\Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader                       | ShaderLab |        109 |          2 |         33 |        144 |
+| d:\progs\unity\projects\Jam3 (1)\Assets\TextMesh Pro\Shaders\TMP_SDF Overlay.shader                  | ShaderLab |        243 |          4 |         71 |        318 |
+| d:\progs\unity\projects\Jam3 (1)\Assets\TextMesh Pro\Shaders\TMP_SDF SSD.shader                      | ShaderLab |        241 |          4 |         66 |        311 |
+| d:\progs\unity\projects\Jam3 (1)\Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader           | ShaderLab |        188 |         10 |         50 |        248 |
+| d:\progs\unity\projects\Jam3 (1)\Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader           | ShaderLab |        183 |          8 |         50 |        241 |
+| d:\progs\unity\projects\Jam3 (1)\Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader               | ShaderLab |         82 |          4 |         21 |        107 |
+| d:\progs\unity\projects\Jam3 (1)\Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader                   | ShaderLab |        183 |          8 |         50 |        241 |
+| d:\progs\unity\projects\Jam3 (1)\Assets\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader           | ShaderLab |        103 |          8 |         28 |        139 |
+| d:\progs\unity\projects\Jam3 (1)\Assets\TextMesh Pro\Shaders\TMP_SDF-Surface.shader                  | ShaderLab |        122 |          4 |         33 |        159 |
+| d:\progs\unity\projects\Jam3 (1)\Assets\TextMesh Pro\Shaders\TMP_SDF.shader                          | ShaderLab |        243 |          4 |         71 |        318 |
+| d:\progs\unity\projects\Jam3 (1)\Assets\TextMesh Pro\Shaders\TMP_Sprite.shader                       | ShaderLab |         97 |          0 |         20 |        117 |
+| d:\progs\unity\projects\Jam3 (1)\Assets\TextMesh Pro\Shaders\TMPro.cginc                             | HLSL      |         63 |          2 |         20 |         85 |
+| d:\progs\unity\projects\Jam3 (1)\Assets\TextMesh Pro\Shaders\TMPro_Mobile.cginc                      | HLSL      |        122 |          2 |         34 |        158 |
+| d:\progs\unity\projects\Jam3 (1)\Assets\TextMesh Pro\Shaders\TMPro_Properties.cginc                  | HLSL      |         62 |         10 |         14 |         86 |
+| d:\progs\unity\projects\Jam3 (1)\Assets\TextMesh Pro\Shaders\TMPro_Surface.cginc                     | HLSL      |         76 |          7 |         19 |        102 |
+| d:\progs\unity\projects\Jam3 (1)\Assets\TextMesh Pro\Sprites\EmojiOne.json                           | JSON      |        155 |          0 |          2 |        157 |
+| Total                                                                                                |           |      2,980 |         63 |        723 |      3,766 |
++------------------------------------------------------------------------------------------------------+-----------+------------+------------+------------+------------+

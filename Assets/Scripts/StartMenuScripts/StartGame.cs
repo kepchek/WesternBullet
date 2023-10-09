@@ -9,7 +9,7 @@ public class StartGame : MonoBehaviour
 {
 
     public static float ShellSpeed = 0.06f;
-    public static float Sens = 2f;
+    public static float Sens = 0.75f;
     public static float Vol = 0.5f;
 
     public Slider SensSlider;
@@ -17,7 +17,7 @@ public class StartGame : MonoBehaviour
 
 
     private void Start() {
-        SensSlider.value = Sens;
+        SensSlider.value  = Sens;
         VolumeSlider.value = Vol;
         Time.timeScale = 1f;
     }
@@ -55,7 +55,7 @@ public class StartGame : MonoBehaviour
 
     public void GoToCredits()
     {
-       SceneManager.LoadScene(6); 
+       SceneManager.LoadScene("Credits"); 
     }
 
 }

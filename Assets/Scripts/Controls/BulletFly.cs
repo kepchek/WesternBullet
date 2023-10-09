@@ -12,7 +12,6 @@ public class BulletFly : MonoBehaviour
 	[Header("Control Info")]
     	public static float speed;
     	public Vector3 direction;
-    	public static float sensivity;
 		//public JoystickMovement joystick;
 		public VariableJoystick MoveJoystick;
 		public GameObject KostylJoystick;
@@ -42,7 +41,6 @@ public class BulletFly : MonoBehaviour
 		direction = new Vector3(0, 0, -1);	
 		transform.Translate(speed*direction);
 		speed = StartGame.ShellSpeed;
-		sensivity = StartGame.Sens;
 		BulletSound = GetComponent<AudioSource>();
 		Time.timeScale = 1f;
 		IsWin = false;
@@ -58,8 +56,8 @@ public class BulletFly : MonoBehaviour
 
 
 		//Mobile Controls
-		pitch += MoveJoystick.Horizontal * sensivity;
-		yaw += MoveJoystick.Vertical * sensivity;
+		pitch += MoveJoystick.Horizontal * StartGame.Sens;
+		yaw += MoveJoystick.Vertical * StartGame.Sens;
 
 		//Move object to direction
 		transform.Translate(speed*direction);

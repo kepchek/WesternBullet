@@ -23,9 +23,9 @@ public class LvlControl : MonoBehaviour
 
     public void isEndGame()
     {
-        if(sceneIndex == 5)
+        if(sceneIndex == 7)
         {
-            SceneManager.LoadScene("StartMenu");
+            //SceneManager.LoadScene("StartMenu");
         }
         else
         {
